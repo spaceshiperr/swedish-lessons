@@ -198,3 +198,5 @@ the lack of a definite article. But, you know how that works already in Swedish 
 > Success is not final, failure is not fatal: It is the courage to continue that counts.
 
 ---
+
+###### Original article: [Swedish Grammar 101](https://www.optilingo.com/blog/swedish/swedish-grammar-rules/)
