@@ -38,12 +38,12 @@ Simple as that. Told you Swedish grammar is nothing to be afraid of.
 
 ## The Grammar of Swedish Nouns
 
-Unlike in English, nouns in Swedish have genders. There are two genders in Swedish: 
-the common gender and neuter. The common gender used to be masculine and feminine. 
-But, over the [history of the Swedish language](Swedish history), they merged together. 
-Today, there are still some Swedish dialects that use separate genders, but standard 
-Swedish doesn’t, so there’s no point in learning them. Just concentrate on the common 
-and the neuter genders.
+Unlike in English, nouns in Swedish have genders. There are two genders in Swedish: the common 
+gender and neuter. The common gender used to be masculine and feminine. But, over the 
+[history of the Swedish language](https://www.optilingo.com/blog/swedish/everything-about-the-swedish-language/), 
+they merged together. Today, there are still some Swedish dialects that use separate genders, 
+but standard Swedish doesn’t, so there’s no point in learning them. Just concentrate on the 
+common and the neuter genders.
 
 ## Articles in Swedish Grammar
 
@@ -61,7 +61,7 @@ that complicated, it’s definitely something you need to get used to.
 |          |       Common gender       |                                       Neuter gender                                       |
 |:---------|:-------------------------:|:-----------------------------------------------------------------------------------------:|
 | Singular |         -en / -n          |                                         -et / -t                                          |
-| Plural   |  indefinite plural + -na  |  indefinite plural: <br> -a (if word ends in vowel) <br> -en (if word ends in consonant)  |
+| Plural   |  indefinite plural + -na  | indefinite plural: </br> -a (if word ends in vowel) </br> -en (if word ends in consonant) |
 
 Let’s look at an example of these: kvinna (c) is woman and barn (n) is child:
 * kvinna**n** – the woman 
@@ -138,7 +138,7 @@ It’s also the way to address someone politely.
 | ni               | you plural or polite                        |
 | de               | they plural                                 |
 
-![St. Lucia Holiday celebration](https://www.optilingo.com/wp-content/uploads/2019/04/pexels-blue-ox-studio-730588.jpg)
+[![St. Lucia Holiday celebration](https://www.optilingo.com/wp-content/uploads/2019/04/pexels-blue-ox-studio-730588.jpg)](https://en.wikipedia.org/wiki/Saint_Lucy%27s_Day)
 
 ## Swedish Adjectives
 
@@ -191,6 +191,10 @@ You can see the similarities between English and Swedish. “Ate” and “apple
 the same. And the sentence structure remained untouched too. The only noticeable difference is 
 the lack of a definite article. But, you know how that works already in Swedish grammar.
 
-[Swedish history]: https://www.optilingo.com/blog/swedish/everything-about-the-swedish-language/
+---
 
+> ### Framgång är inte slutgiltig, misslyckande är inte livshotande; det är modet att fortsätta som räknas.
+>
+> Success is not final, failure is not fatal: It is the courage to continue that counts.
 
+---
